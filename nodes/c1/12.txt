@@ -1,0 +1,31 @@
+Build Abstraction with Functions
+
+1.2 Elements of programming 
+i. Programming language serves as a framework where organized our ideas about computational processes.
+ii. Three mechanisms of programming language:
+primitive expressions and statements
+means of combination
+means of abstraction
+iii. two kinds of elements:
+functions(describe the rules for manipulating data)
+data(stuffs we want to manipulate)
+
+
+Expressions 
+Numbers and arithmetic operations are primitive built-in data values and functions
+
+Call expressions 
+
+Names and Environment
+=: assignment operator, simplest way of abstraction(use simple name for the results of compound operations)
+
+Evaluating Nested Expressions
+provides a means of combining operations
+
+Pure Function: no effects beyond a return value
+benifits:
+1. be composed more reliably into compound call expressions( used effectively in nested expressions)
+2. simpler to test 
+3. essential for writing concurrent programs
+
+pure functions interact only via the values they take and return 

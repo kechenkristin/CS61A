@@ -1,0 +1,5 @@
+Control
+
+Control the flow of a program's execution based on the results of logical comparisons.
+Instead of computing something, executing a control statement determines what the interpreter should do next.
+
