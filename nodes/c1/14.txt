@@ -1,0 +1,11 @@
+Designing Functions
+1. Each function should have exactly one job( mutiple jobs in sequence should be divided into mutiple functions.)
+2. Don't repeat yourself, logic should be only implemented once.
+3. Functions should be defined generally
+
+python features:
+documentations
+comments
+
+Functions can only manipulate their local environment.
+

@@ -1,0 +1,6 @@
+Defining new Functions
+Understanding three core attributes
+1. domain: the sets of arguments it can take
+2. range: the set of values it can return 
+3. intent: the relationship it computes between inputs and outputs
+eg. square & sum_square
